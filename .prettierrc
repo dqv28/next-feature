@@ -1,12 +1,7 @@
 {
-    "tabWidth": 2,
-    "parser": "babel",
-    "proseWrap": "preserve",
-    "quoteProps": "as-needed",
-    "trailingComma": "all",
-    "htmlWhitespaceSensitivity": "css",
-    "printWidth": 120,
-    "singleQuote": true,
-    "arrowParens": "avoid",
-    "semi": true
+  "tabWidth": 2,
+  "printWidth": 100,
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "all"
 }

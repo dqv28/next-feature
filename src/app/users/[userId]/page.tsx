@@ -1,13 +1,7 @@
-
-
 const UserDetailPage = (props: any) => {
-    const { params } = props
+  const { params } = props
 
-    return (
-        <div>
-            Detail: {params?.userId}
-        </div>
-    )
+  return <div>Detail: {params?.userId}</div>
 }
 
 export default UserDetailPage

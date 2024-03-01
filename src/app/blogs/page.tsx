@@ -1,5 +1,5 @@
 const BlogsPage = () => {
-  return <div>Blogs Page</div>;
-};
+  return <div>Blogs Page</div>
+}
 
-export default BlogsPage;
+export default BlogsPage
